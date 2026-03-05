@@ -1,0 +1,12 @@
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+
+# Ignore cache files
+*.cache
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
